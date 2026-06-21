@@ -1,9 +1,13 @@
 # PORTFOLIO
-THIS PORTFOLI MADE BY ME 
+THIS PORTFOLIO MADE BY ME 
 
 # 🚀 My Portfolio | Amit Devi 
 
 Welcome to my personal portfolio! This project showcases my journey as a **BCA student**, **Web Developer**, and **Cybersecurity Enthusiast**. It serves as a central hub for my projects, skills, and technical interests.
+
+# Visit My Portfolio
+
+<a href="https://amit-devi.github.io/PORTFOLIO/">Visit Now</a>
 
 ## 🛠️ Tech Stack
 
